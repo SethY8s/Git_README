@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/seth-yates-9ba83b238/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="seth-yates.com">
+  <a href="https://seth-yates.com/">
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
