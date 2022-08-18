@@ -9,8 +9,7 @@
     <img src="https://img.shields.io/badge/Portfolio-grey?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-<h2 align="center">Hey, I'm Seth :wave:<br>
-  </h2>
+
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="80%" height="400"/>
